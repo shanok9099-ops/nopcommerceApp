@@ -1,0 +1,280 @@
+2025-09-14 23:43:32,374 :INFO : root :Test_001_login
+2025-09-14 23:43:32,374 :INFO : root :***********verify home page title***********
+2025-09-14 23:43:39,110 :INFO : root :*****home page title test is passes*****
+2025-09-14 23:43:40,945 :INFO : root :*****verify login test*****
+2025-09-14 23:43:48,008 :INFO : root :*****login test is passes*****
+2025-09-14 23:59:16,918 :INFO : root :Test_001_login
+2025-09-14 23:59:16,918 :INFO : root :***********verify home page title***********
+2025-09-14 23:59:23,671 :INFO : root :*****home page title test is passes*****
+2025-09-14 23:59:25,189 :INFO : root :*****verify login test*****
+2025-09-14 23:59:30,837 :INFO : root :*****login test is passes*****
+2025-09-15 00:01:05,549 :INFO : root :Test_001_login
+2025-09-15 00:01:05,549 :INFO : root :***********verify home page title***********
+2025-09-15 00:01:11,950 :INFO : root :*****home page title test is passes*****
+2025-09-15 00:01:13,388 :INFO : root :*****verify login test*****
+2025-09-15 00:01:18,387 :ERROR : root :*****login test is failed*****
+2025-09-15 00:06:46,617 :INFO : root :Test_001_login
+2025-09-15 00:06:46,618 :INFO : root :***********verify home page title***********
+2025-09-15 00:06:53,828 :INFO : root :*****home page title test is passes*****
+2025-09-15 00:06:55,420 :INFO : root :*****verify login test*****
+2025-09-15 00:07:00,460 :INFO : root :*****login test is passes*****
+2025-09-15 00:09:07,392 :INFO : root :Test_001_login
+2025-09-15 00:09:07,393 :INFO : root :***********verify home page title***********
+2025-09-15 00:09:07,424 :INFO : root :*****verify login test*****
+2025-09-15 00:09:12,563 :ERROR : root :*****login test is failed*****
+2025-09-15 00:09:14,595 :INFO : root :*****home page title test is passes*****
+2025-09-15 00:11:30,183 :INFO : root :*****verify login test*****
+2025-09-15 00:11:30,216 :INFO : root :Test_001_login
+2025-09-15 00:11:30,216 :INFO : root :***********verify home page title***********
+2025-09-15 00:11:35,488 :ERROR : root :*****login test is failed*****
+2025-09-15 00:11:37,503 :INFO : root :*****home page title test is passes*****
+2025-09-15 00:49:53,785 :INFO : root :Test_001_login
+2025-09-15 00:49:53,785 :INFO : root :***********verify home page title***********
+2025-09-15 00:50:00,451 :INFO : root :*****home page title test is passes*****
+2025-09-15 00:50:01,943 :INFO : root :*****verify login test*****
+2025-09-15 00:50:07,420 :ERROR : root :*****login test is failed*****
+2025-09-15 01:04:38,404 :INFO : root :Test_001_login
+2025-09-15 01:04:38,404 :INFO : root :***********verify home page title***********
+2025-09-15 01:04:45,227 :INFO : root :*****home page title test is passes*****
+2025-09-15 01:04:46,704 :INFO : root :*****verify login test*****
+2025-09-15 01:04:55,605 :INFO : root :*****login test is passes*****
+2025-09-15 01:56:12,112 :INFO : root :*****Test_002_DDT_Login*****
+2025-09-15 02:05:05,105 :INFO : root :*****Test_002_DDT_Login*****
+2025-09-15 02:05:15,516 :INFO : root :**PASS
+2025-09-15 02:05:23,007 :INFO : root :**PASS
+2025-09-15 02:05:28,659 :INFO : root :**PASS
+2025-09-15 02:05:34,645 :INFO : root :**PASS
+2025-09-15 02:05:34,645 :INFO : root :****** login DDT Test passed
+2025-09-15 02:05:34,942 :INFO : root :*****End of Login DDT Test
+2025-09-16 02:37:43,868 :INFO : root :Test_003_AddCustomer
+2025-09-16 02:37:48,326 :INFO : root :***Login Succesfull*****
+2025-09-16 02:37:48,326 :INFO : root :***start add customer****
+2025-09-16 02:37:51,785 :INFO : root :** provide cust info****
+2025-09-16 02:43:44,400 :INFO : root :Test_003_AddCustomer
+2025-09-16 02:43:49,423 :INFO : root :***Login Succesfull*****
+2025-09-16 02:43:49,424 :INFO : root :***start add customer****
+2025-09-16 02:43:53,451 :INFO : root :** provide cust info****
+2025-09-16 02:48:44,298 :INFO : root :Test_003_AddCustomer
+2025-09-16 02:48:48,582 :INFO : root :***Login Succesfull*****
+2025-09-16 02:48:48,583 :INFO : root :***start add customer****
+2025-09-16 02:48:52,521 :INFO : root :** provide cust info****
+2025-09-16 03:12:59,919 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:13:03,606 :INFO : root :***Login Succesfull*****
+2025-09-16 03:13:03,607 :INFO : root :***start add customer****
+2025-09-16 03:13:07,589 :INFO : root :** provide cust info****
+2025-09-16 03:16:47,605 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:16:51,936 :INFO : root :***Login Succesfull*****
+2025-09-16 03:16:51,936 :INFO : root :***start add customer****
+2025-09-16 03:16:55,533 :INFO : root :** provide cust info****
+2025-09-16 03:23:37,698 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:23:43,280 :INFO : root :***Login Succesfull*****
+2025-09-16 03:23:43,280 :INFO : root :***start add customer****
+2025-09-16 03:23:48,249 :INFO : root :** provide cust info****
+2025-09-16 03:25:49,968 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:25:54,419 :INFO : root :***Login Succesfull*****
+2025-09-16 03:25:54,420 :INFO : root :***start add customer****
+2025-09-16 03:25:57,359 :INFO : root :** provide cust info****
+2025-09-16 03:28:14,648 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:28:19,072 :INFO : root :***Login Succesfull*****
+2025-09-16 03:28:19,072 :INFO : root :***start add customer****
+2025-09-16 03:28:24,806 :INFO : root :** provide cust info****
+2025-09-16 03:30:33,620 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:30:37,578 :INFO : root :***Login Succesfull*****
+2025-09-16 03:30:37,578 :INFO : root :***start add customer****
+2025-09-16 03:30:42,346 :INFO : root :** provide cust info****
+2025-09-16 03:30:45,715 :INFO : root :***saving customer info****
+2025-09-16 03:30:45,716 :INFO : root :***add customer validation info****
+2025-09-16 03:30:46,343 :INFO : root :***add customer test fail****
+2025-09-16 03:32:28,812 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:32:32,234 :INFO : root :***Login Succesfull*****
+2025-09-16 03:32:32,235 :INFO : root :***start add customer****
+2025-09-16 03:32:36,336 :INFO : root :** provide cust info****
+2025-09-16 03:37:07,600 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:37:13,340 :INFO : root :***Login Succesfull*****
+2025-09-16 03:37:13,341 :INFO : root :***start add customer****
+2025-09-16 03:37:16,458 :INFO : root :** provide cust info****
+2025-09-16 03:39:15,698 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:39:17,281 :INFO : root :***Login Succesfull*****
+2025-09-16 03:39:17,281 :INFO : root :***start add customer****
+2025-09-16 03:42:04,600 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:42:07,283 :INFO : root :***Login Succesfull*****
+2025-09-16 03:42:07,283 :INFO : root :***start add customer****
+2025-09-16 03:44:55,140 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:44:56,828 :INFO : root :***Login Succesfull*****
+2025-09-16 03:44:56,828 :INFO : root :***start add customer****
+2025-09-16 03:45:00,901 :INFO : root :** provide cust info****
+2025-09-16 03:50:06,116 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:50:07,896 :INFO : root :***Login Succesfull*****
+2025-09-16 03:50:07,897 :INFO : root :***start add customer****
+2025-09-16 03:50:12,198 :INFO : root :** provide cust info****
+2025-09-16 03:51:50,369 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:51:51,939 :INFO : root :***Login Succesfull*****
+2025-09-16 03:51:51,939 :INFO : root :***start add customer****
+2025-09-16 03:51:55,324 :INFO : root :** provide cust info****
+2025-09-16 03:55:25,718 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:55:28,726 :INFO : root :***Login Succesfull*****
+2025-09-16 03:55:28,726 :INFO : root :***start add customer****
+2025-09-16 03:55:31,743 :INFO : root :** provide cust info****
+2025-09-16 03:59:25,981 :INFO : root :Test_003_AddCustomer
+2025-09-16 03:59:27,612 :INFO : root :***Login Succesfull*****
+2025-09-16 03:59:27,612 :INFO : root :***start add customer****
+2025-09-16 03:59:31,620 :INFO : root :** provide cust info****
+2025-09-16 04:04:11,049 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:04:15,182 :INFO : root :***Login Succesfull*****
+2025-09-16 04:04:15,182 :INFO : root :***start add customer****
+2025-09-16 04:07:01,372 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:07:02,943 :INFO : root :***Login Succesfull*****
+2025-09-16 04:07:02,943 :INFO : root :***start add customer****
+2025-09-16 04:07:06,808 :INFO : root :** provide cust info****
+2025-09-16 04:13:55,021 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:13:58,570 :INFO : root :***Login Succesfull*****
+2025-09-16 04:13:58,570 :INFO : root :***start add customer****
+2025-09-16 04:14:01,046 :INFO : root :** provide cust info****
+2025-09-16 04:17:03,218 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:17:06,694 :INFO : root :***Login Succesfull*****
+2025-09-16 04:17:06,695 :INFO : root :***start add customer****
+2025-09-16 04:17:09,258 :INFO : root :** provide cust info****
+2025-09-16 04:19:48,617 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:19:51,757 :INFO : root :***Login Succesfull*****
+2025-09-16 04:19:51,757 :INFO : root :***start add customer****
+2025-09-16 04:22:28,377 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:22:32,317 :INFO : root :***Login Succesfull*****
+2025-09-16 04:22:32,317 :INFO : root :***start add customer****
+2025-09-16 04:23:51,502 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:23:55,522 :INFO : root :***Login Succesfull*****
+2025-09-16 04:23:55,522 :INFO : root :***start add customer****
+2025-09-16 04:27:11,187 :INFO : root :Test_003_AddCustomer
+2025-09-16 04:27:14,639 :INFO : root :***Login Succesfull*****
+2025-09-16 04:27:14,640 :INFO : root :***start add customer****
+2025-09-16 04:27:17,099 :INFO : root :** provide cust info****
+2025-09-17 17:38:30,817 :INFO : root :Test_003_AddCustomer
+2025-09-17 17:38:35,767 :INFO : root :***Login Succesfull*****
+2025-09-17 17:38:35,768 :INFO : root :***start add customer****
+2025-09-17 17:38:39,805 :INFO : root :** provide cust info****
+2025-09-17 17:46:24,870 :INFO : root :Test_003_AddCustomer
+2025-09-17 17:46:29,252 :INFO : root :***Login Succesfull*****
+2025-09-17 17:46:29,252 :INFO : root :***start add customer****
+2025-09-17 17:48:54,632 :INFO : root :Test_003_AddCustomer
+2025-09-17 17:48:59,961 :INFO : root :***Login Succesfull*****
+2025-09-17 17:48:59,962 :INFO : root :***start add customer****
+2025-09-17 17:49:03,130 :INFO : root :** provide cust info****
+2025-09-17 17:50:15,446 :INFO : root :Test_003_AddCustomer
+2025-09-17 17:50:19,955 :INFO : root :***Login Succesfull*****
+2025-09-17 17:50:19,955 :INFO : root :***start add customer****
+2025-09-17 17:50:24,102 :INFO : root :** provide cust info****
+2025-09-17 18:06:02,505 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:06:06,902 :INFO : root :***Login Succesfull*****
+2025-09-17 18:06:06,902 :INFO : root :***start add customer****
+2025-09-17 18:06:09,576 :INFO : root :** provide cust info****
+2025-09-17 18:06:44,208 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:06:46,275 :INFO : root :***Login Succesfull*****
+2025-09-17 18:06:46,275 :INFO : root :***start add customer****
+2025-09-17 18:06:50,942 :INFO : root :** provide cust info****
+2025-09-17 18:09:16,241 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:09:17,825 :INFO : root :***Login Succesfull*****
+2025-09-17 18:09:17,825 :INFO : root :***start add customer****
+2025-09-17 18:09:33,040 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:09:36,597 :INFO : root :***Login Succesfull*****
+2025-09-17 18:09:36,598 :INFO : root :***start add customer****
+2025-09-17 18:09:41,347 :INFO : root :** provide cust info****
+2025-09-17 18:14:33,229 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:14:34,896 :INFO : root :***Login Succesfull*****
+2025-09-17 18:14:34,896 :INFO : root :***start add customer****
+2025-09-17 18:14:57,370 :INFO : root :** provide cust info****
+2025-09-17 18:18:33,893 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:18:39,408 :INFO : root :***Login Succesfull*****
+2025-09-17 18:18:39,408 :INFO : root :***start add customer****
+2025-09-17 18:18:42,784 :INFO : root :** provide cust info****
+2025-09-17 18:23:18,422 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:23:22,127 :INFO : root :***Login Succesfull*****
+2025-09-17 18:23:22,127 :INFO : root :***start add customer****
+2025-09-17 18:23:26,411 :INFO : root :** provide cust info****
+2025-09-17 18:23:50,876 :INFO : root :***saving customer info****
+2025-09-17 18:23:50,876 :INFO : root :***add customer validation info****
+2025-09-17 18:23:50,941 :INFO : root :***add customer test pass****
+2025-09-17 18:24:55,736 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:24:58,129 :INFO : root :***Login Succesfull*****
+2025-09-17 18:24:58,129 :INFO : root :***start add customer****
+2025-09-17 18:25:02,881 :INFO : root :** provide cust info****
+2025-09-17 18:25:27,418 :INFO : root :***saving customer info****
+2025-09-17 18:25:27,419 :INFO : root :***add customer validation info****
+2025-09-17 18:25:27,495 :INFO : root :***add customer test pass****
+2025-09-17 18:43:42,997 :INFO : root :Test_003_AddCustomer
+2025-09-17 18:43:47,598 :INFO : root :***Login Succesfull*****
+2025-09-17 18:43:47,599 :INFO : root :***start add customer****
+2025-09-17 18:43:53,941 :INFO : root :** provide cust info****
+2025-09-17 18:43:58,270 :INFO : root :***saving customer info****
+2025-09-17 18:43:58,270 :INFO : root :***add customer validation info****
+2025-09-17 18:43:58,335 :INFO : root :***add customer test pass****
+2025-09-17 20:00:14,467 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:02:45,175 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:02:49,450 :INFO : root :**********Login Successful*******
+2025-09-17 20:02:52,028 :INFO : root :************search cust by id**********
+2025-09-17 20:04:56,048 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:04:59,742 :INFO : root :**********Login Successful*******
+2025-09-17 20:05:02,339 :INFO : root :************search cust by id**********
+2025-09-17 20:16:19,050 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:16:23,076 :INFO : root :**********Login Successful*******
+2025-09-17 20:16:25,500 :INFO : root :************search cust by id**********
+2025-09-17 20:19:26,383 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:19:30,050 :INFO : root :**********Login Successful*******
+2025-09-17 20:19:32,606 :INFO : root :************search cust by id**********
+2025-09-17 20:22:09,092 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:22:12,876 :INFO : root :**********Login Successful*******
+2025-09-17 20:22:15,780 :INFO : root :************search cust by id**********
+2025-09-17 20:23:59,684 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:24:01,318 :INFO : root :**********Login Successful*******
+2025-09-17 20:24:05,265 :INFO : root :************search cust by id**********
+2025-09-17 20:24:21,852 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:24:23,683 :INFO : root :**********Login Successful*******
+2025-09-17 20:24:27,039 :INFO : root :************search cust by id**********
+2025-09-17 20:27:21,796 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:27:26,131 :INFO : root :**********Login Successful*******
+2025-09-17 20:27:28,344 :INFO : root :************search cust by id**********
+2025-09-17 20:29:09,535 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:29:13,810 :INFO : root :**********Login Successful*******
+2025-09-17 20:29:16,309 :INFO : root :************search cust by id**********
+2025-09-17 20:34:27,146 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:34:30,048 :INFO : root :**********Login Successful*******
+2025-09-17 20:34:36,332 :INFO : root :************search cust by id**********
+2025-09-17 20:34:42,972 :INFO : root :************TC_SearchCustomerByEmail_004 Finished**********
+2025-09-17 20:34:56,639 :INFO : root :**********Test_SearchCustomerByEmail_004*****
+2025-09-17 20:34:59,863 :INFO : root :**********Login Successful*******
+2025-09-17 20:35:01,607 :INFO : root :************search cust by id**********
+2025-09-17 20:35:08,221 :INFO : root :************TC_SearchCustomerByEmail_004 Finished**********
+2025-09-17 20:38:44,486 :INFO : root :**********Test_SearchCustomerByEmail_005*****
+2025-09-17 20:38:48,078 :INFO : root :**********Login Successful*******
+2025-09-17 20:38:52,344 :INFO : root :************search cust by id**********
+2025-09-17 20:42:47,136 :INFO : root :**********Test_SearchCustomerByEmail_005*****
+2025-09-17 20:42:51,446 :INFO : root :**********Login Successful*******
+2025-09-17 20:42:54,579 :INFO : root :************search cust by id**********
+2025-09-17 20:43:00,748 :INFO : root :************TC_SearchCustomerByEmail_005 Finished**********
+2025-09-17 20:45:11,480 :INFO : root :**********Test_SearchCustomerByEmail_005*****
+2025-09-17 20:45:15,189 :INFO : root :**********Login Successful*******
+2025-09-17 20:45:17,587 :INFO : root :************search cust by id**********
+2025-09-17 20:45:24,333 :INFO : root :************TC_SearchCustomerByEmail_005 Finished**********
+2025-09-18 00:10:09,270 :INFO : root :Test_003_AddCustomer
+2025-09-18 00:10:09,270 :INFO : root :Test_003_AddCustomer
+2025-09-18 00:10:09,270 :INFO : root :Test_003_AddCustomer
+2025-09-18 00:10:09,270 :INFO : root :Test_003_AddCustomer
+2025-09-18 00:10:09,270 :INFO : root :Test_003_AddCustomer
+2025-09-18 00:10:17,236 :INFO : root :***Login Succesfull*****
+2025-09-18 00:10:17,236 :INFO : root :***Login Succesfull*****
+2025-09-18 00:10:17,236 :INFO : root :***Login Succesfull*****
+2025-09-18 00:10:17,236 :INFO : root :***Login Succesfull*****
+2025-09-18 00:10:17,236 :INFO : root :***Login Succesfull*****
+2025-09-18 00:10:17,237 :INFO : root :***start add customer****
+2025-09-18 00:10:17,237 :INFO : root :***start add customer****
+2025-09-18 00:10:17,237 :INFO : root :***start add customer****
+2025-09-18 00:10:17,237 :INFO : root :***start add customer****
+2025-09-18 00:10:17,237 :INFO : root :***start add customer****
+2025-09-18 00:10:35,159 :INFO : root :*****verify login test*****
+2025-09-18 00:10:35,159 :INFO : root :*****verify login test*****
+2025-09-18 00:10:35,159 :INFO : root :*****verify login test*****
+2025-09-18 00:10:35,159 :INFO : root :*****verify login test*****
+2025-09-18 00:10:35,159 :INFO : root :*****verify login test*****
+2025-09-18 00:10:43,805 :INFO : root :*****login test is passes*****
+2025-09-18 00:10:43,805 :INFO : root :*****login test is passes*****
+2025-09-18 00:10:43,805 :INFO : root :*****login test is passes*****
+2025-09-18 00:10:43,805 :INFO : root :*****login test is passes*****
+2025-09-18 00:10:43,805 :INFO : root :*****login test is passes*****
